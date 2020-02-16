@@ -53,4 +53,5 @@ public class BMICalculatorTest {
         assertEquals(category, "Your category is Overweight", "Категория неверная");
         browser.quit();
     }
+    //Branch created
 }
